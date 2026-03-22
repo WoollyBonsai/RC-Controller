@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.rccontroller.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.rccontroller.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.rccontroller.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.rccontroller.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

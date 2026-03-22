@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/woolly/Work/RC-Controller/app"
+    name=":app"
+    type="APP"
+    maven="RC-Controller:app:"
+    agpVersion="8.1.0"
+    buildFolder="build"
+    bootClassPath="/home/woolly/Development/SDK/platforms/android-33/android.jar:/home/woolly/Development/SDK/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

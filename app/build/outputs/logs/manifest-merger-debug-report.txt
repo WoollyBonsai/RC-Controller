@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/woolly/.gradle/caches/transforms-3/53dded2305d6f220b6e385b19853ba9a/transformed/material3-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.7.0] /home/woolly/.gradle/caches/transforms-3/fa76b5ca4f8c1f8ba046586494138b37/transformed/activity-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.0] /home/woolly/.gradle/caches/transforms-3/d27e77eb987ca8277bdc38c0cac45e56/transformed/activity-ktx-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.0] /home/woolly/.gradle/caches/transforms-3/208abd322b9b4eea2d43227ffa669389/transformed/activity-compose-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /home/woolly/.gradle/caches/transforms-3/d321b746a118f778b86278e687410a35/transformed/animation-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/woolly/.gradle/caches/transforms-3/c3563a05728f8cefb6da5f07c2783435/transformed/material-icons-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/woolly/.gradle/caches/transforms-3/96013328a656c62f268e92c605ed32cb/transformed/material-ripple-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.0] /home/woolly/.gradle/caches/transforms-3/5203ae38de927ba5a655f5a5ea565f4d/transformed/animation-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /home/woolly/.gradle/caches/transforms-3/68c777cf1b3609debe638ab767e6379e/transformed/foundation-layout-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /home/woolly/.gradle/caches/transforms-3/0615e92c5b2e98d5bc8a003c37c6c0db/transformed/foundation-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /home/woolly/.gradle/caches/transforms-3/ae160fdb9395e493590ba79ba5d1a026/transformed/ui-unit-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /home/woolly/.gradle/caches/transforms-3/09e0b1b75a7faa0f3f119d2b2ef0ecc6/transformed/ui-geometry-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /home/woolly/.gradle/caches/transforms-3/3d80511d274eaa7104b75bbb9da2a37f/transformed/ui-util-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /home/woolly/.gradle/caches/transforms-3/b76754101b0ec9675f865e2c3e96f2d8/transformed/ui-text-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /home/woolly/.gradle/caches/transforms-3/e4a6168a16b0df92d1ea3509554fbfbf/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /home/woolly/.gradle/caches/transforms-3/c7e4d97781fde3a9d6f0ddb75d8535ea/transformed/ui-graphics-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.0] /home/woolly/.gradle/caches/transforms-3/ce1455aed187b6a5e87be20563f7eb50/transformed/ui-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/woolly/.gradle/caches/transforms-3/ac0bd4f33511f243049a5dc21a195cde/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/woolly/.gradle/caches/transforms-3/8fa0e70c1cc2020003b3eb804b1a04e8/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/woolly/.gradle/caches/transforms-3/79ba46c0ce47f595cdc5630507344ad6/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/woolly/.gradle/caches/transforms-3/b745cdf6ef07fc82267439ba1e71d355/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/woolly/.gradle/caches/transforms-3/d5383db5650fb1bb1b8c5d43d06ef456/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/woolly/.gradle/caches/transforms-3/26dc964c8379f7c28cba793de9e2145e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/woolly/.gradle/caches/transforms-3/3e324b7b9aebb98de734e98566f40ac5/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/woolly/.gradle/caches/transforms-3/4ccdde8d137dfc5c9361f386a8775b85/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/woolly/.gradle/caches/transforms-3/a114d3bb86582db634c3bf1c4baccb32/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/woolly/.gradle/caches/transforms-3/74814f2419e50853ba7a1f190415375d/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/woolly/.gradle/caches/transforms-3/52ab210844ad86e6e094810935520a68/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /home/woolly/.gradle/caches/transforms-3/030e4c6582168d7f309121b6e40eb8de/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /home/woolly/.gradle/caches/transforms-3/cd76408cc42d578aadbcc00762188dff/transformed/runtime-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/woolly/.gradle/caches/transforms-3/72e4d3a4ef1403f4e1be98659d1f81aa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/woolly/.gradle/caches/transforms-3/8881af623a0309283b0b5fc42bcc9259/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/woolly/.gradle/caches/transforms-3/077986610d258b4abc1f79fe226aefcd/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/woolly/.gradle/caches/transforms-3/029af3bd197d5620f6e83c4e09dfada9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:7:5-86
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:7:22-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:10:5-27:19
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:10:5-27:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/woolly/.gradle/caches/transforms-3/72e4d3a4ef1403f4e1be98659d1f81aa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/woolly/.gradle/caches/transforms-3/72e4d3a4ef1403f4e1be98659d1f81aa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:13:9-38
+	android:roundIcon
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:16:9-72
+activity#com.example.rccontroller.MainActivity
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:21:13-50
+	android:label
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:20:13-42
+	android:exported
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/woolly/.gradle/caches/transforms-3/53dded2305d6f220b6e385b19853ba9a/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/woolly/.gradle/caches/transforms-3/53dded2305d6f220b6e385b19853ba9a/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] /home/woolly/.gradle/caches/transforms-3/fa76b5ca4f8c1f8ba046586494138b37/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] /home/woolly/.gradle/caches/transforms-3/fa76b5ca4f8c1f8ba046586494138b37/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0] /home/woolly/.gradle/caches/transforms-3/d27e77eb987ca8277bdc38c0cac45e56/transformed/activity-ktx-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0] /home/woolly/.gradle/caches/transforms-3/d27e77eb987ca8277bdc38c0cac45e56/transformed/activity-ktx-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.0] /home/woolly/.gradle/caches/transforms-3/208abd322b9b4eea2d43227ffa669389/transformed/activity-compose-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.0] /home/woolly/.gradle/caches/transforms-3/208abd322b9b4eea2d43227ffa669389/transformed/activity-compose-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /home/woolly/.gradle/caches/transforms-3/d321b746a118f778b86278e687410a35/transformed/animation-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /home/woolly/.gradle/caches/transforms-3/d321b746a118f778b86278e687410a35/transformed/animation-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/woolly/.gradle/caches/transforms-3/c3563a05728f8cefb6da5f07c2783435/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/woolly/.gradle/caches/transforms-3/c3563a05728f8cefb6da5f07c2783435/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/woolly/.gradle/caches/transforms-3/96013328a656c62f268e92c605ed32cb/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/woolly/.gradle/caches/transforms-3/96013328a656c62f268e92c605ed32cb/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] /home/woolly/.gradle/caches/transforms-3/5203ae38de927ba5a655f5a5ea565f4d/transformed/animation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] /home/woolly/.gradle/caches/transforms-3/5203ae38de927ba5a655f5a5ea565f4d/transformed/animation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /home/woolly/.gradle/caches/transforms-3/68c777cf1b3609debe638ab767e6379e/transformed/foundation-layout-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /home/woolly/.gradle/caches/transforms-3/68c777cf1b3609debe638ab767e6379e/transformed/foundation-layout-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /home/woolly/.gradle/caches/transforms-3/0615e92c5b2e98d5bc8a003c37c6c0db/transformed/foundation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /home/woolly/.gradle/caches/transforms-3/0615e92c5b2e98d5bc8a003c37c6c0db/transformed/foundation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /home/woolly/.gradle/caches/transforms-3/ae160fdb9395e493590ba79ba5d1a026/transformed/ui-unit-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /home/woolly/.gradle/caches/transforms-3/ae160fdb9395e493590ba79ba5d1a026/transformed/ui-unit-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /home/woolly/.gradle/caches/transforms-3/09e0b1b75a7faa0f3f119d2b2ef0ecc6/transformed/ui-geometry-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /home/woolly/.gradle/caches/transforms-3/09e0b1b75a7faa0f3f119d2b2ef0ecc6/transformed/ui-geometry-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /home/woolly/.gradle/caches/transforms-3/3d80511d274eaa7104b75bbb9da2a37f/transformed/ui-util-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /home/woolly/.gradle/caches/transforms-3/3d80511d274eaa7104b75bbb9da2a37f/transformed/ui-util-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /home/woolly/.gradle/caches/transforms-3/b76754101b0ec9675f865e2c3e96f2d8/transformed/ui-text-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /home/woolly/.gradle/caches/transforms-3/b76754101b0ec9675f865e2c3e96f2d8/transformed/ui-text-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /home/woolly/.gradle/caches/transforms-3/e4a6168a16b0df92d1ea3509554fbfbf/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /home/woolly/.gradle/caches/transforms-3/e4a6168a16b0df92d1ea3509554fbfbf/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /home/woolly/.gradle/caches/transforms-3/c7e4d97781fde3a9d6f0ddb75d8535ea/transformed/ui-graphics-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /home/woolly/.gradle/caches/transforms-3/c7e4d97781fde3a9d6f0ddb75d8535ea/transformed/ui-graphics-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] /home/woolly/.gradle/caches/transforms-3/ce1455aed187b6a5e87be20563f7eb50/transformed/ui-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] /home/woolly/.gradle/caches/transforms-3/ce1455aed187b6a5e87be20563f7eb50/transformed/ui-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/woolly/.gradle/caches/transforms-3/ac0bd4f33511f243049a5dc21a195cde/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/woolly/.gradle/caches/transforms-3/ac0bd4f33511f243049a5dc21a195cde/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/woolly/.gradle/caches/transforms-3/8fa0e70c1cc2020003b3eb804b1a04e8/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/woolly/.gradle/caches/transforms-3/8fa0e70c1cc2020003b3eb804b1a04e8/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/woolly/.gradle/caches/transforms-3/79ba46c0ce47f595cdc5630507344ad6/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/woolly/.gradle/caches/transforms-3/79ba46c0ce47f595cdc5630507344ad6/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/woolly/.gradle/caches/transforms-3/b745cdf6ef07fc82267439ba1e71d355/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/woolly/.gradle/caches/transforms-3/b745cdf6ef07fc82267439ba1e71d355/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/woolly/.gradle/caches/transforms-3/d5383db5650fb1bb1b8c5d43d06ef456/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/woolly/.gradle/caches/transforms-3/d5383db5650fb1bb1b8c5d43d06ef456/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/woolly/.gradle/caches/transforms-3/26dc964c8379f7c28cba793de9e2145e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/woolly/.gradle/caches/transforms-3/26dc964c8379f7c28cba793de9e2145e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/woolly/.gradle/caches/transforms-3/3e324b7b9aebb98de734e98566f40ac5/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/woolly/.gradle/caches/transforms-3/3e324b7b9aebb98de734e98566f40ac5/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/woolly/.gradle/caches/transforms-3/4ccdde8d137dfc5c9361f386a8775b85/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/woolly/.gradle/caches/transforms-3/4ccdde8d137dfc5c9361f386a8775b85/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/woolly/.gradle/caches/transforms-3/a114d3bb86582db634c3bf1c4baccb32/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/woolly/.gradle/caches/transforms-3/a114d3bb86582db634c3bf1c4baccb32/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/woolly/.gradle/caches/transforms-3/74814f2419e50853ba7a1f190415375d/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/woolly/.gradle/caches/transforms-3/74814f2419e50853ba7a1f190415375d/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/woolly/.gradle/caches/transforms-3/52ab210844ad86e6e094810935520a68/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/woolly/.gradle/caches/transforms-3/52ab210844ad86e6e094810935520a68/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /home/woolly/.gradle/caches/transforms-3/030e4c6582168d7f309121b6e40eb8de/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /home/woolly/.gradle/caches/transforms-3/030e4c6582168d7f309121b6e40eb8de/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /home/woolly/.gradle/caches/transforms-3/cd76408cc42d578aadbcc00762188dff/transformed/runtime-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /home/woolly/.gradle/caches/transforms-3/cd76408cc42d578aadbcc00762188dff/transformed/runtime-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/woolly/.gradle/caches/transforms-3/72e4d3a4ef1403f4e1be98659d1f81aa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/woolly/.gradle/caches/transforms-3/72e4d3a4ef1403f4e1be98659d1f81aa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/woolly/.gradle/caches/transforms-3/8881af623a0309283b0b5fc42bcc9259/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/woolly/.gradle/caches/transforms-3/8881af623a0309283b0b5fc42bcc9259/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/woolly/.gradle/caches/transforms-3/077986610d258b4abc1f79fe226aefcd/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/woolly/.gradle/caches/transforms-3/077986610d258b4abc1f79fe226aefcd/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/woolly/.gradle/caches/transforms-3/029af3bd197d5620f6e83c4e09dfada9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/woolly/.gradle/caches/transforms-3/029af3bd197d5620f6e83c4e09dfada9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/woolly/Work/RC-Controller/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/woolly/.gradle/caches/transforms-3/b6ad05d87acf586d11ccb63544685b4b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/woolly/.gradle/caches/transforms-3/aa66ecf05c8b115527a3b96d9fdc9420/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/woolly/.gradle/caches/transforms-3/693eb14186708307615f97b0acce9072/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.rccontroller.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.rccontroller.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/woolly/.gradle/caches/transforms-3/61514b0c399704996f791850f1fbb232/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/woolly/.gradle/caches/transforms-3/5c32a9748e03c75577dd4717fd497f4a/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
