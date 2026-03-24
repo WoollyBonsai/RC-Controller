@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android
+*.iml
+.idea/
+.sdk/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+cmake-build-debug/
+cmake-build-release/
+
+# Kotlin/JVM
+.kotlin/
+kotlin-binaries/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ESP/C
+# esp-code.c is essential
+*.o
+*.obj
+*.exe
+*.bin
+*.elf
+*.hex
